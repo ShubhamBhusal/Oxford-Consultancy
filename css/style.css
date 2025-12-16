@@ -439,9 +439,9 @@ div.services .item{
     .home img.background1{
         position: absolute;
         width: 35%;
-        height: 50%;
-        top:60px;
-        left:40px;
+        height: 30%;
+        top:100px;
+        left:30px;
     }
     .home{
         height: 40vh;
@@ -456,7 +456,7 @@ div.services .item{
         bottom: 0px;
     }
     .navbar ul{
-        justify-content: center;
+        justify-content: right;
     }
     .navbar ul li a{
         padding: 10px 15px;
